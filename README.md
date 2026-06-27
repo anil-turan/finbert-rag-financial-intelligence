@@ -9,6 +9,12 @@
 
 ---
 
+![Architecture](assets/architecture.png)
+
+![Results](assets/results.png)
+
+---
+
 ## Overview
 
 This project demonstrates two complementary NLP capabilities relevant to financial services:
