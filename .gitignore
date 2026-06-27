@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+dist/
+build/
+.env
+.env.*
+# Model weights and vector store (large files)
+outputs/
+data/processed/
+*.bin
+*.pt
+*.safetensors
+# Data
+data/raw/*.csv
+data/raw/*.parquet
+.DS_Store
+mlruns/

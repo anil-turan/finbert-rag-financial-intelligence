@@ -1,0 +1,47 @@
+Basel III: International Regulatory Framework for Banks
+Capital Requirements — Summary
+
+MINIMUM CAPITAL RATIOS
+
+Under Basel III, banks are required to maintain the following minimum capital ratios:
+
+1. Common Equity Tier 1 (CET1) Capital Ratio: 4.5%
+   CET1 capital consists primarily of common shares and retained earnings. It is the highest quality form of regulatory capital. Banks must maintain CET1 of at least 4.5% of risk-weighted assets (RWA) at all times.
+
+2. Tier 1 Capital Ratio: 6.0%
+   Tier 1 capital includes CET1 plus Additional Tier 1 instruments (e.g., contingent convertible bonds — CoCos). The minimum Tier 1 ratio is 6% of RWA.
+
+3. Total Capital Ratio: 8.0%
+   Total capital includes Tier 1 plus Tier 2 capital (subordinated debt, general loan-loss reserves). Minimum requirement is 8% of RWA.
+
+CAPITAL CONSERVATION BUFFER
+
+In addition to minimum ratios, Basel III introduced a Capital Conservation Buffer (CCB) of 2.5% of RWA, composed entirely of CET1 capital. This buffer is designed to ensure banks maintain a buffer of capital outside periods of stress. When a bank's CET1 falls below 7.0% (4.5% minimum + 2.5% buffer), restrictions are placed on distributions (dividends, share buybacks, bonuses).
+
+COUNTERCYCLICAL CAPITAL BUFFER (CCyB)
+
+The CCyB ranges from 0% to 2.5% of RWA. National supervisors activate the CCyB during periods of excessive credit growth. The purpose is to ensure banks build up buffers during good times that can be drawn down during periods of stress.
+
+LEVERAGE RATIO
+
+Basel III introduced a non-risk-based leverage ratio as a backstop to risk-based capital requirements. The minimum Tier 1 leverage ratio is 3%, calculated as Tier 1 capital divided by total exposure (on-balance and off-balance sheet).
+
+LIQUIDITY REQUIREMENTS
+
+Liquidity Coverage Ratio (LCR): Banks must hold sufficient High Quality Liquid Assets (HQLA) to survive a 30-day stress scenario. Minimum LCR is 100%.
+
+Net Stable Funding Ratio (NSFR): Designed to promote resilience over a one-year time horizon. Requires that Available Stable Funding (ASF) exceeds Required Stable Funding (RSF). Minimum NSFR is 100%.
+
+RISK-WEIGHTED ASSETS
+
+Risk-weighted assets are calculated by applying risk weights to different asset categories. Under the standardised approach:
+- Sovereign exposures: 0% (OECD countries)
+- Bank exposures: 20-150% depending on credit rating
+- Corporate exposures: 20-150% depending on credit rating
+- Residential mortgages: 35-150% depending on LTV ratio
+- Retail exposures: 75%
+- Non-performing loans: 100-150%
+
+IMPLEMENTATION TIMELINE
+
+Basel III was phased in from 2013. The final Basel III reforms (Basel IV) were finalised in December 2017 and are being implemented by jurisdictions from January 2023, with full implementation by January 2028.
